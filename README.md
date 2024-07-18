@@ -1,87 +1,76 @@
 
-# Career Goals Reflection Template
+# Redefining My Professional Self
 
-### Introduction to the Template
+### Who am I?
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
-### Personal Information
-
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Mathapelo Lawrencia Thokoa**
+- **Date: 18 July 2024**
+- **Current Role/Position: Software Development Student**
+- **Field of Interest: Front-end Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - *Current Skills*: Communication; Creativity; Work ethic
+    - *Skills to improve*: Time management;
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Front-end development involves creativity which I am quite interested in exploring.
+    - Solving problems within coding can be quite challenging and I enjoy learning how to solve these.
+    - Having a leader who supports growth is very important for a thriving workplace.
+    - Colleagues that can communicate and work well as a group also contribute to a healthy environment. 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - I am interested in becoming a front-end developer in the Financial sector.
+    - Becoming a developer in the education sector to help make online registrations more accessible.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - One of my passions include providing quality education for previously disadvantaged communities so I believe that I can my passion and code to bring much needed change.
+    - The financial sector has been known for requiring a certain level of accuracy and ability to solve problems, which I am quite drawn to.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - To pass my current course with the highest mark that I can so I can be a better candidate for employment
+    - To become an expert in Front-end develpoment for easier career advancement
+    - To increase my professional network to ensure I can stay updated with all the changes that happen in the tech world 
+    - 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Continue with my studies to become a full-stack developer.
+    - To lead a team of developers and create a working environment that will inspire them to grow in the tech field.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Continously schedule in practice time so that I can code with ease.
+    - Communicate my struggles timeously and professionally with my peers and coach.
+    - Join tech communities to gain insight on how to become a better developer.
+    - I would like to learn how to use different websites as well as platforms that assist developers with learning how to master the craft of coding.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
-
+    - Settle in my role as a Front-end Developer.
+    - Take on freelance work when possible to broaden my knowledge.
+    - Engage with senior developers to learn the best ways to achieve my goals.
+    - Enrol myself to learn back-end developing to achieve my goal  of becomming a full-stack developer.
+    
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - A newly flooding industry carries the potential to make jobs scarce.
+    - Should job hunting prove to be difficult then I can redirect my focus to furthering my studies.
+    
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
+    - I would like to accept internship offers so that I can
+     get myself accustomed to how the workplace environment is like.
+    - Familiarise myself with HR professionals to help make job hunting easier.
+    - Enrol in other bootcamps that will help me fine-tune my skills.
 
