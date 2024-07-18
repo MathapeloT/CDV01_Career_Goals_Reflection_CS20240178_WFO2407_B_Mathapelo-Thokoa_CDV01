@@ -2,7 +2,7 @@
 # Redefining My Professional Self
 
 ### Who am I?
-
+![It's me](IMG-20240420-WA0021.jpg)
 - **Name: Mathapelo Lawrencia Thokoa**
 - **Date: 18 July 2024**
 - **Current Role/Position: Software Development Student**
